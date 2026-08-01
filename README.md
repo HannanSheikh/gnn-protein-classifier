@@ -5,7 +5,7 @@ classification task, using the PROTEINS dataset.
 
 ## What this is
 
-PROTEINS is a dataset where each protein is represented as a graph — nodes are
+PROTEINS is a dataset where each protein is represented as a graph nodes are
 secondary structure elements (helix, sheet, turn), edges connect elements that
 are close together in the protein's 3D structure. The task is to predict
 whether each protein is an enzyme or not, based on this graph structure.
